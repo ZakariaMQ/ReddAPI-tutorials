@@ -8,7 +8,7 @@ payload = {
 	"username": username,   # your Reddit account username
 	"password": password,   # your Reddit account password
 	"useragent": useragent, # your useragent
-	"proxy": proxy          #your proxy it should on the following format http://ip:port
+	"proxy": proxy          # your proxy it should on the following format http://ip:port
 }
 
 headers = {

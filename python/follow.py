@@ -2,13 +2,13 @@ import requests
 
 from creds import *
 
-url = "https://reddapi.p.rapidapi.com/api/create_subreddit"
+url = "https://reddapi.p.rapidapi.com/api/follow"
 
 payload = {
 	"useragent": useragent,  # your useragent
 	"proxy": proxy,          # your proxy it should on the following format http://ip:port
 	"bearer": bearer,        # for make the auth to reddit bearer is the token_v2 returned from the login endpoint
-	"name": subreddit        # the name of the subreddit you wanna create
+	"username": username     # of the account you wanan follow
 }
 
 headers = {

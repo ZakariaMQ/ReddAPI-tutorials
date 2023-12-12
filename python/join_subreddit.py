@@ -8,7 +8,7 @@ payload = {
 	"useragent": useragent,  # your useragent
 	"proxy": proxy,          # your proxy it should on the following format http://ip:port
 	"bearer": bearer,        # for make the auth to reddit bearer is the token_v2 returned from the login endpoint
-    "sub_reddit": subreddit, # the name of the subreddit you wanna join e.g askreddit
+    "sub_reddit": subreddit  # the name of the subreddit you wanna join e.g askreddit
 }
 
 headers = {
