@@ -8,7 +8,7 @@ payload = {
 	"useragent": useragent,  # your useragent
 	"proxy": proxy,          # your proxy it should on the following format http://ip:port
 	"bearer": bearer,        # for make the auth to reddit bearer is the token_v2 returned from the login endpoint
-	"username": username     # of the account you wanan unfollow
+	"username": username     # of the account you wanna unfollow
 }
 
 headers = {
