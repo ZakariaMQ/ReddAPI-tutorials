@@ -7,6 +7,10 @@
 A full tutorial on how to use ReddAPI as a developer it contains documentation + all what you need to understand ReddAPI and start building your next Awesome SaaS project.
 
 
+## Find Us at
+### [Youtube](https://www.youtube.com/@ReddAPI)
+### [Telegram](https://t.me/SeasonedCode/)
+### [Telegram group](https://t.me/+fRsNb7sknDsyNThk)
 
 ## Installation
 
