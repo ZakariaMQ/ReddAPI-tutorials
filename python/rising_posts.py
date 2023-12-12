@@ -6,7 +6,7 @@ url = "https://reddapi.p.rapidapi.com/api/rising_posts"
 
 
 querystring = {
-    "proxy":"ip:port",       # these are the queries needed 2 are required username and proxy
+    "proxy":"ip:port",       # these are the queries needed 2 are required subreddit and proxy
     "subreddit":"askreddit", # 1 optional post_num either default: 7 posts
     "post_num":"10"          # for more info see http://reddapi.online/docs#rising-posts
     }

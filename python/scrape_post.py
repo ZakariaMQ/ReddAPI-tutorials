@@ -6,7 +6,7 @@ url = "https://reddapi.p.rapidapi.com/api/scrape_post"
 
 
 querystring = {
-    "proxy":"ip:port",                # these are the queries needed 2 are required username and proxy
+    "proxy":"ip:port",                # these are the queries needed 2 are required post_url and proxy
     "post_url":"the url of the post"  # for more info see http://reddapi.online/docs#scrape-post
     }
 
