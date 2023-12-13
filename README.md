@@ -19,7 +19,7 @@ you can install this repo using the three easy steps
     ```bash
     git clone https://github.com/ZakariaMQ/ReddAPI-tutorials.git
     cd ReddAPI-tutorials
-    pip install resuirements.txt
+    pip install requirements.txt
 
 ## a little Note
 To use all the code or ReddAPI you need first to get your API key at [Rapidapi.com](https://rapidapi.com/SeasonedCode/api/reddapi)
